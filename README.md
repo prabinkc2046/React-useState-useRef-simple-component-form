@@ -1,0 +1,1 @@
+Create a form component that allows a user to input their name and age. Display the entered name and age below the form when a submit button is clicked. Use the useState hook to manage the state of the name and age input fields. Ensure that both fields are required, and display an error message if the user tries to submit the form without filling in both fields.
